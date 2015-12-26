@@ -1,0 +1,10 @@
+c:\users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AwsDynamoDBDocumentSample1.exe.config
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AwsDynamoDBDocumentSample1.exe
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AwsDynamoDBDocumentSample1.pdb
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AWSSDK.Core.dll
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AWSSDK.Core.xml
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Debug\AwsDynamoDBDocumentSample1.csprojResolveAssemblyReference.cache
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Debug\AwsDynamoDBDocumentSample1.exe
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Debug\AwsDynamoDBDocumentSample1.pdb

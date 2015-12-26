@@ -1,0 +1,12 @@
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AwsDynamoDBDocumentSample1.exe.config
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AwsDynamoDBDocumentSample1.exe
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AwsDynamoDBDocumentSample1.pdb
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AWSSDK.Core.dll
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AWSSDK.DynamoDBv2.dll
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\Newtonsoft.Json.dll
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AWSSDK.Core.xml
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\AWSSDK.DynamoDBv2.xml
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\bin\Release\Newtonsoft.Json.xml
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Release\AwsDynamoDBDocumentSample1.csprojResolveAssemblyReference.cache
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Release\AwsDynamoDBDocumentSample1.exe
+C:\Users\a2558\documents\visual studio 2015\Projects\AwsDynamoDBDocumentSample1\AwsDynamoDBDocumentSample1\obj\Release\AwsDynamoDBDocumentSample1.pdb
